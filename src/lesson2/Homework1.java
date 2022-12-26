@@ -10,11 +10,11 @@ public class Homework1
         int number = scanner.nextInt();
         if (number % 2 == 0)
         {
-            System.out.println("Четное 1");
+            System.out.println("Нечетное");
         }
         else
         {
-            System.out.println("Нечетное 1");
+            System.out.println("Четное");
         }
     }
 }
